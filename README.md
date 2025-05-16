@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I'm RapzzKY24
 
-<!--
-**RapzzKY24/RapzzKy24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 I’m currently working on:  
+A project to measure stress levels in Indonesian society using a web-based questionnaire system (PKM-KC).
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:  
+- Golang with Fiber framework  
+- JavaScript and basic React  
+- Data Structures and Algorithms (DSA)  
+- Cybersecurity and Cryptography
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about:  
+- Building backend with Golang  
+- How to get started with web development  
+- Tips for writing scientific articles (especially related to IT & security)
+
+📫 How to reach me:  
+- Discord: RapppzKY#XXXX  
+- Email: your_email@example.com (ganti sesuai kontakmu)  
+- LinkedIn: [Your LinkedIn link]
+
+⚡ Fun fact:  
+I like combining coding with science writing ✍️
+
+---
+
+> “Learning to code is like learning a new language, only you talk to computers instead of people.”
