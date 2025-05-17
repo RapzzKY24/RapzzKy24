@@ -1,12 +1,15 @@
-<h1 align="center"><marquee>Hi 👋, I'm RapzzKY</marquee></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Rapzky;Fullstack+Dev+Enthusiast;Future+Web3+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+
+<h1 align="center">Hi 👋, I'm RapzzKY</h1>
 <h3 align="center">💻 Fullstack Developer in the making | 🔐 Future Web3 Builder</h3>
 
 ---
 
-- 🌱 I’m currently learning **Fullstack Development & Web3 Fundamentals**
-- ⚡ Fun fact: I enjoy building clean UI and writing secure backend logic
-- 💬 Ask me about **React, Golang, MongoDB, Express.js, Web3 ideas**
-- 🎯 Goals: Become a skilled Fullstack Developer & contribute to decentralized technologies
+- 🌱 I’m currently learning **Fullstack Development & Web3 Fundamentals**  
+- ⚡ Fun fact: I enjoy building clean UI and writing secure backend logic    
+- 🎯 Goals: Become a skilled Fullstack Developer & contribute to decentralized technologies  
 
 ---
 
