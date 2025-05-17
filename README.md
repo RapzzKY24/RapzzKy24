@@ -4,7 +4,6 @@
 ---
 
 - 🌱 I’m currently learning **Fullstack Development & Web3 Fundamentals**
-- 🔭 I’m working on personal projects to sharpen my backend and React skills
 - ⚡ Fun fact: I enjoy building clean UI and writing secure backend logic
 - 💬 Ask me about **React, Golang, MongoDB, Express.js, Web3 ideas**
 - 🎯 Goals: Become a skilled Fullstack Developer & contribute to decentralized technologies
