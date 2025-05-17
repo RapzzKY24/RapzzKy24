@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RapzzKY</h1>
+<h1 align="center"><marquee>Hi 👋, I'm RapzzKY</marquee></h1>
 <h3 align="center">💻 Fullstack Developer in the making | 🔐 Future Web3 Builder</h3>
 
 ---
