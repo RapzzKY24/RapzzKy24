@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+RapzzKY.;Want+to+be+a+Fullstack+Developer.;Never+Stop+Learning.🔥&center=true&width=435&height=40&color=F97316&vCenter=true&size=24" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+RapzzKY.;Want+to+be+a+Fullstack+Developer.;Never+Stop+Learning.🔥&center=true&width=435&height=40&color=F97316&vCenter=true&size=20" />
 </p>
 
 ## 🧠 About Me
