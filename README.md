@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+RapzzKY.;Want+to+be+a+Fullstack+Developer.;Never+Stop+Learning.🔥&center=true&width=435&height=40&color=F97316&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+RapzzKY.;Want+to+be+a+Fullstack+Developer.;Never+Stop+Learning.🔥&center=true&width=435&height=40&color=F97316&vCenter=true&size=24" />
 </p>
 
 ## 🧠 About Me
-Hi! I'm **RapzzKY** — a passionate developer who dreams big and codes even bigger.  
-Currently deep-diving into **Fullstack Development**, blending frontend charm with backend power.  
+Hi! I'm **RapzzKY** — an **IT Student** eager to dive deep into the world of **Fullstack Development**.  
+Currently sharpening my skills to bridge the gap between engaging frontends and robust backends.  
 I believe in **clean code, coffee-fueled nights ☕, and consistent self-growth.** Let's connect and build something impactful together 🚀  
 
 ---
@@ -23,6 +23,8 @@ I believe in **clean code, coffee-fueled nights ☕, and consistent self-growth.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
 ### Backend & Database
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
@@ -37,13 +39,6 @@ I believe in **clean code, coffee-fueled nights ☕, and consistent self-growth.
 ![](https://github-readme-stats.vercel.app/api?username=RapzzKY24&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RapzzKY24&theme=aura&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RapzzKY24&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RapzzKY24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
