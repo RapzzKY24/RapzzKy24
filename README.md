@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/view/yoon-seri-son-yejin-cloy-crash-landing-on-you-kdrama-gif-22570528" width="100%" style="border-radius: 15px;" />
+  <img src="./crash-landing.gif" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
 </div>
 
 <p align="center">
