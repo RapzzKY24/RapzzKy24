@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./crash-landing.gif" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
-</div>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+RapzzKY.;Want+to+be+a+Fullstack+Developer.;Never+Stop+Learning.🔥&center=true&width=435&height=40&color=F97316&vCenter=true&size=20" />
