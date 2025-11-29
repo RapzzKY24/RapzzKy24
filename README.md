@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://tenor.com/view/yoon-seri-son-yejin-cloy-crash-landing-on-you-kdrama-gif-22570528" width="100%" style="border-radius: 15px;" />
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+RapzzKY.;Want+to+be+a+Fullstack+Developer.;Never+Stop+Learning.🔥&center=true&width=435&height=40&color=F97316&vCenter=true&size=20" />
 </p>
